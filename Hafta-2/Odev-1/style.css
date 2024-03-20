@@ -1,0 +1,53 @@
+.baslik {
+    color:green;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+#menu {
+    color: darkolivegreen;
+}
+
+h1,h2,h3,b {
+    color: darkolivegreen;
+}
+
+.renk {
+    background-color: darkkhaki;
+}
+
+#center {
+    text-align: center;
+}
+
+#arka-plan {
+    background-color: whitesmoke;
+}
+
+.ortala {
+    display: grid;
+    place-items: center;
+}
+
+.hg {
+    font-size: 30px;
+    color: darkolivegreen;
+}
+
+p {
+    color: seagreen;
+}
+
+.product {
+    color: seagreen;
+}
+
+.row {
+    clear: both;
+  display: table;
+  }
+  
+  .column {
+    float:inline-end;
+    padding: 10px;
+  }
