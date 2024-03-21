@@ -1,1 +1,5 @@
-
+![logo](https://github.com/osmankusoglu/PatikaFrontend/assets/130009555/628878ca-f804-4b19-af91-3fe61e64bbdb)
+![Uploading hobby-home-page.PNG…]()
+![Uploading hobby-about-us.PNG…]()
+![Uploading hobby-gallery.PNG…]()
+![Uploading hobby-contact.PNG…]()
