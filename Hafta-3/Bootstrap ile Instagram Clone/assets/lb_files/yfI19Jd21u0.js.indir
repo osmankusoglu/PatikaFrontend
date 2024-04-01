@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("useSetAttributeRef",["react"],(function(a,b,c,d,e,f,g){"use strict";var h,i=(h||d("react")).useCallback;function a(a,b){return i(function(c){c!=null&&c.setAttribute(a,b)},[a,b])}g["default"]=a}),98);
+__d("last",[],(function(a,b,c,d,e,f){"use strict";function a(a){var b=null;if(Array.isArray(a)||typeof a==="string")a.length&&(b={value:a[a.length-1]});else for(var a=a,c=Array.isArray(a),d=0,a=c?a:a[typeof Symbol==="function"?Symbol.iterator:"@@iterator"]();;){var e;if(c){if(d>=a.length)break;e=a[d++]}else{d=a.next();if(d.done)break;e=d.value}e=e;b=b||{};b.value=e}return b?b.value:null}f["default"]=a}),66);

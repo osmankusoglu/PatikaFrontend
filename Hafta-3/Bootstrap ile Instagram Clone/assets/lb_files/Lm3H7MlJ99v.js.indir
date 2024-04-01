@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("LSDeserializeFromJsonIntoDictionaryV2.nop",["LSDict","LSJson","Promise","unrecoverableViolation"],(function(a,b,c,d,e,f,g){"use strict";var h;a=function(a,e,f){a=d("LSJson").parse(f,{useLSTypes:!0});if(a instanceof c("LSDict"))return(h||(h=b("Promise"))).resolve([a]);throw c("unrecoverableViolation")("unexpected Dictionary type","messenger_web_product")};g["default"]=a}),98);
