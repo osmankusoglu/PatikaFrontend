@@ -1,0 +1,5 @@
+![to-do](https://github.com/osmankusoglu/PatikaFrontend/assets/130009555/7efabe9c-0303-44e5-8a5e-afc020ba8bce)
+![to-do-tamamlandı](https://github.com/osmankusoglu/PatikaFrontend/assets/130009555/f23be27d-8af9-4341-9f1f-0b036e54121e)
+![to-do-ekleme](https://github.com/osmankusoglu/PatikaFrontend/assets/130009555/35fe952c-5bb1-4eea-bba7-bf10d1cf1621)
+![to-do-ekleme-başarılı](https://github.com/osmankusoglu/PatikaFrontend/assets/130009555/f5582122-e405-44fb-9059-c7801068c7fc)
+![to-do-not-null](https://github.com/osmankusoglu/PatikaFrontend/assets/130009555/bf06e4eb-40c6-41dc-880c-5e071c68ef4f)
